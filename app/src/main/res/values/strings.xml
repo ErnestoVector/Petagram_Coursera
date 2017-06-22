@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="boton_clic">Click</string>
+    <string name="titulo">Hola a todos</string>
+    <string name="mensaje">Añadido a favoritos</string>
+    <string name="texto_accion">Acción</string>
+    <string-array name="planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Júpiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Neptuno</item>
+        <item>Plutón</item>
+    </string-array>
+    <string name="titulo_tarjeta">Android 6.0</string>
+    <string name="descripcion_tarjeta">Esta es la segunda versión que incluyó "Material Design". Android Marshmallow</string>
+</resources>
